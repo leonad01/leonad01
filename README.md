@@ -27,7 +27,7 @@
 ## 📌 Featured Projects
 | Project | Tech | Highlights |
 |---------|------|-----------|
-| BookShop | Spring MVC · JSP · MySQL | Design your own screen |
+| Motorcycle Shop Website | Spring MVC · JSP · MySQL | Convenient to use |
 
 
 
@@ -48,10 +48,10 @@
   -Microsoft Office<br>
   <br>
   <h3>Soft skills</h3>
-  Problem Solving <br>
-  Creativity <br>
-  Team Work <br>
-  Time Management <br>
+  -Problem Solving <br>
+  -Creativity <br>
+  -Team Work <br>
+  -Time Management <br>
 </div>
 
 ---
